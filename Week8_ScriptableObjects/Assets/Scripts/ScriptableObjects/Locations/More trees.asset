@@ -12,9 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29bee893fb53548339a0d30584773e29, type: 3}
   m_Name: More trees
   m_EditorClassIdentifier: 
-  locationName: Garage
-  locationDescription: A garage with no cars inside :/
-  northLocation: {fileID: 0}
-  southLocation: {fileID: 0}
-  westLocation: {fileID: 11400000, guid: 1029acf55dc984ef3a8454e57ea58370, type: 2}
-  eastLocation: {fileID: 0}
+  locationName: 'tree leaf tree
+
+    tree leaf tree
+
+    tree leaf tree'
+  locationDescription: 'Two roads diverged in a wood,
+
+    You took the one less
+    traveled by'
+  left: {fileID: 11400000, guid: 8f56952c199934fec9886d2a53d311f6, type: 2}
+  right: {fileID: 0}

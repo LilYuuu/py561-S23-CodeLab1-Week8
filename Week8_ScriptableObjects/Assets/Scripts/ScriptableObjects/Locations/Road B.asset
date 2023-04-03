@@ -12,9 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29bee893fb53548339a0d30584773e29, type: 3}
   m_Name: Road B
   m_EditorClassIdentifier: 
-  locationName: Dead End
-  locationDescription: Go back
-  northLocation: {fileID: 11400000, guid: b7cb5c613e4a44fc5bf952ee96f0f53c, type: 2}
-  southLocation: {fileID: 0}
-  westLocation: {fileID: 0}
-  eastLocation: {fileID: 0}
+  locationName: 'grass grass grass
+
+    grass grass grass
+
+    grass grass grass'
+  locationDescription: 'You took the other, as just as fair
+
+    It was grassy and
+    wanted wear'
+  left: {fileID: 11400000, guid: 1029acf55dc984ef3a8454e57ea58370, type: 2}
+  right: {fileID: 11400000, guid: c573a8dc3119142c88494c12f3c14b47, type: 2}

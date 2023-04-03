@@ -17,6 +17,9 @@ MonoBehaviour:
     leaf leaf leaf
 
     leaf leaf leaf'
-  locationDescription: Don't trespass
-  left: {fileID: 0}
-  right: {fileID: 0}
+  locationDescription: 'And both that morning equally lay
+
+    In leaves no step
+    had trodden black'
+  left: {fileID: 11400000, guid: f8effca56d506468d87da29d9b460a37, type: 2}
+  right: {fileID: 11400000, guid: 8f56952c199934fec9886d2a53d311f6, type: 2}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29bee893fb53548339a0d30584773e29, type: 3}
   m_Name: Yellow wood
   m_EditorClassIdentifier: 
-  locationName: Yellow wood
+  locationName: yellow wood
   locationDescription: "Two roads diverged in a yellow wood, \nand sorry you could
     not travel both"
   left: {fileID: 11400000, guid: 8d4769bed3d2a4419857330e0ac17ee7, type: 2}

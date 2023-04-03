@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29bee893fb53548339a0d30584773e29, type: 3}
   m_Name: Trees
   m_EditorClassIdentifier: 
-  locationName: Pool
-  locationDescription: A pool with a yellow rubber duck
-  northLocation: {fileID: 0}
-  southLocation: {fileID: 0}
-  westLocation: {fileID: 0}
-  eastLocation: {fileID: 11400000, guid: 1029acf55dc984ef3a8454e57ea58370, type: 2}
+  locationName: 'tree tree tree
+
+    tree tree tree
+
+    tree tree tree'
+  locationDescription: 'You can keep the first for another day
+
+    Yet knowing how
+    way leads on to way,
+
+    I doubt if you should ever come back'
+  left: {fileID: 11400000, guid: c573a8dc3119142c88494c12f3c14b47, type: 2}
+  right: {fileID: 11400000, guid: 03ae6383fb6444c5db08889b4623d74f, type: 2}
