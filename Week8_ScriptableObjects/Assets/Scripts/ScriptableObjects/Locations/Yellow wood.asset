@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29bee893fb53548339a0d30584773e29, type: 3}
+  m_Name: Yellow wood
+  m_EditorClassIdentifier: 
+  locationName: Yellow wood
+  locationDescription: "Two roads diverged in a yellow wood, \nand sorry you could
+    not travel both"
+  left: {fileID: 11400000, guid: 8d4769bed3d2a4419857330e0ac17ee7, type: 2}
+  right: {fileID: 11400000, guid: f8effca56d506468d87da29d9b460a37, type: 2}
